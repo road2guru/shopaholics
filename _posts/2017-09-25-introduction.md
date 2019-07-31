@@ -18,4 +18,4 @@ This site allows you to explore Forestry's features and functionality, and is **
 
 Thank you for choosing to demo Forestry!
 
-![](/_assets/Screenshot from 2019-07-22 19-51-49.png)
+![](/assets/Screenshot from 2019-07-22 19-51-49.png)
